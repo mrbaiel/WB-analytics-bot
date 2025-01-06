@@ -1,0 +1,50 @@
+# Системные файлы
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+Thumbs.db
+
+# Виртуальное окружение Python
+env/
+venv/
+.bot_env/
+*.env
+bot_env/
+
+# Лог-файлы и временные файлы
+*.log
+*.out
+*.pid
+*.bak
+*.tmp
+*.lock
+
+# Файлы IDE
+.idea/
+.vscode/
+
+config.json
+.env
+
+# Папки и файлы с зависимостями
+pip-log.txt
+pip-delete-this-directory.txt
+site/
+dist/
+build/
+*.egg-info/
+.eggs/
+
+
+# Бинарные файлы
+*.db
+*.sqlite3
+*.dat
+*.exe
+*.dll
+*.so
+*.zip
+*.tar.gz
